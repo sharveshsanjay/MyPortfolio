@@ -51,7 +51,7 @@ A comprehensive and visually appealing portfolio website built to showcase my sk
 ## 📸 Screenshots  
 
 ### Desktop View  
-![Desktop View](path-to-screenshot-desktop.png)  
+![Desktop View]([path-to-screenshot-desktop.png](https://github.com/sharveshsanjay/MyPortfolio/blob/main/images/screenshot-1736588306768.png?raw=true))  
 
 ---
 
