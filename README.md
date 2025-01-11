@@ -51,14 +51,14 @@ A comprehensive and visually appealing portfolio website built to showcase my sk
 ## 📸 Screenshots  
 
 ### Desktop View  
-![Desktop View]([path-to-screenshot-desktop.png](https://github.com/sharveshsanjay/MyPortfolio/blob/main/images/screenshot-1736588306768.png?raw=true))  
+![Desktop View](https://github.com/sharveshsanjay/MyPortfolio/blob/main/images/screenshot-1736588306768.png?raw=true)  
 
 ---
 
 ## 🌐 Live Demo  
 
 Explore the live version of the portfolio:  
-[**Live Portfolio Link**]([https://your-portfolio-link.com](https://bright-axolotl-34a2a5.netlify.app/))  
+[**Live Portfolio Link**](https://bright-axolotl-34a2a5.netlify.app/)
 
 ---
 
