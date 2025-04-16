@@ -85,7 +85,7 @@ portfolio-website/
 
 
 📬 Contact
-Feel free to connect :
+Feel free to connect with me:
 
 Email: sharveshsanjay10@gmail.com
 LinkedIn: https://www.linkedin.com/in/sharvesh-sanjay-m-862a74317/
